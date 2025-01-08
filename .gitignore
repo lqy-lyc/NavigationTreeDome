@@ -1,0 +1,50 @@
+# 忽略文件
+*.exe
+*.pdb
+*.dll
+*.user
+*.suo
+*.tmp
+*.log
+*.jnl
+*.swp
+*.DS_Store
+
+# 忽略文件夹
+bin/
+obj/
+node_modules/
+
+# 忽略 VS Code 相关文件
+.vscode/
+
+# 忽略 NuGet packages 文件夹
+packages/
+*.nupkg
+
+# 忽略 Visual Studio 编辑器文件
+*.vs/
+*.sln.cache
+*.vspscc
+*.vssscc
+*.builds
+*.pidb
+*.svclog
+*.scc
+
+# 忽略 ASP.NET Core 编译文件
+*.obj
+*.dll
+*.exe
+*.pdb
+*.user
+*.iobj
+*.ipdb
+*.log
+*.vspscc
+
+# 忽略任何 .NET Core 编译生成的文件
+*.Cache
+*.Client
+*.Server
+*.log
